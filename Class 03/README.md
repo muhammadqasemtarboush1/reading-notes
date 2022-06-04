@@ -165,3 +165,9 @@ ex: assert (condition), "MSG"
 ## Warnings
 
 - Catching Exception hides all errors…even those which are completely unexpected. This is why you should avoid bare except clauses in your Python programs. Instead, you’ll want to refer to specific exception classes you want to catch and handle.
+
+[Source](https://realpython.com/python-exceptions/)
+
+## Things I want to know more about
+
+All the Warnings & Important Notes in this file.
