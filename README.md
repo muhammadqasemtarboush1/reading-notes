@@ -12,4 +12,4 @@
 | 02 | [Testing and Modules](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2002/) |
 | 03 | [Readings: FileIO & Exceptions](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2003/) |
 | 04 | [Classes & Fixtures](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2004/) |
-| 05 | [Classes & Fixtures](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2005/) |
+| 05 | [Algorithm Efficiency & Linked Lists vocabulary](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2005/) |
