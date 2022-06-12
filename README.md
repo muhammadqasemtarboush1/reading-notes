@@ -13,3 +13,4 @@
 | 03 | [Readings: FileIO & Exceptions](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2003/) |
 | 04 | [Classes & Fixtures](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2004/) |
 | 05 | [Algorithm Efficiency & Linked Lists vocabulary](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2005/) |
+| 06 | [Algorithm Efficiency & Linked Lists vocabulary](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2006/) |
