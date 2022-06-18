@@ -14,4 +14,5 @@
 | 04 | [Classes & Fixtures](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2004/)                             |
 | 05 | [Algorithm Efficiency & Linked Lists vocabulary](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2005/) |
 | 06 | [Random & DI & Risk analysis](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2006/)                           |
-| 07 | [Readings: Ten Thousand 2](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2007/)                           |
+| 07 | [Readings: Ten Thousand 2](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2007/)
+| 08 | [Readings: Ten Thousand 3](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2008/)                           |
