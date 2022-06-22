@@ -24,6 +24,7 @@ lets developers tap into rich language features like sequences, iteration, opera
 
   *
   *
+  *
   * ```python
     class Account:
       def __init__(self, owner, amount=0):
@@ -69,6 +70,7 @@ lets developers tap into rich language features like sequences, iteration, opera
   * In order to iterate over our account object I need to add some transactions
   *
     *
+    *
     * ```python
       def add_transaction(self, amount):
         if not isinstance(amount, int):
@@ -77,7 +79,9 @@ lets developers tap into rich language features like sequences, iteration, opera
        ```
 
 * #### Operator Overloading for Comparing Accounts: __eq__, __lt__
+
   *
+    *
     *
     * ```python
       from functools import total_ordering
@@ -244,3 +248,4 @@ These functions calculate statistics regarding relations between two inputs.
 ## Things I want to know more about
 
 * Statistics how to use it in practical way and deal with it in real world projects
+  

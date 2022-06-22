@@ -17,3 +17,5 @@
 | 07 | [Readings: Ten Thousand 2](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2007/)
 | 08 | [Readings: Ten Thousand 3](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2008/)                           |
 | 09 | [Readings: Ten Thousand 4](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2009/)                           |
+
+| 10 | [Stack and queue](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2010/)  
