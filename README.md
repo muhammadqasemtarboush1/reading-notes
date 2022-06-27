@@ -19,3 +19,4 @@
 | 09 | [Readings: Ten Thousand 4](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2009/)                           |
 | 10 | [Stack & Queue](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2010/)  
 | 11 | [Jupyter & NumPy](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2011/)  
+| 12 | [Pandas ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2012/)  
