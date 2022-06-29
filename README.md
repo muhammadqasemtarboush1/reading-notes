@@ -21,4 +21,4 @@
 | 11        | [Jupyter & NumPy](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2011/)                                |
 | 12        | [Pandas](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2012/)                                         |
 | 13        | [Linear regression](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2013/)                              |
-| 14        | [seaborn & Matplotlib](https://mumuhammadqasemtarboush1.github.io/reading-notes/Class%2014/)                              |
+| 14        | [seaborn & Matplotlib](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2014/)                              |
