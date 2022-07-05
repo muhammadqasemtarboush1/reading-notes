@@ -23,4 +23,7 @@
 | 13        | [Linear regression](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2013/)                              |
 | 14        | [seaborn & Matplotlib](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2014/)                           |
 | 15        | [Tree](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2015/)                                           |
-| 16        | [Serverless](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2016/)                                           |
+| 16        | [Serverless](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2016/)                                     |
+| 17        | [Web Scraping](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2017/)                                   |
+
+
