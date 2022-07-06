@@ -25,5 +25,7 @@
 | 15        | [Tree](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2015/)                                           |
 | 16        | [Serverless](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2016/)                                     |
 | 17        | [Web Scraping](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2017/)                                   |
+| 18        | [Cryptography](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2018/)                                   |
+
 
 
