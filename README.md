@@ -2,7 +2,7 @@
 
 ## Code 401 - Advanced Software Developmen
 
- > ## *Welcome to My Notes*
+> ## *Welcome to My Notes*
 
 ## Table of Contents
 
@@ -27,6 +27,7 @@
 | 17        | [Web Scraping](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2017/)                                   |
 | 18        | [Cryptography](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2018/)                                   |
 | 19        | [Django](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2019/)                                         |
+| 20        | [Django Models](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2020/)                                  |
 
 
 
