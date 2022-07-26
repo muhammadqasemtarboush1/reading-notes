@@ -28,6 +28,7 @@
 | 18        | [Cryptography](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2018/)                                   |
 | 19        | [Django](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2019/)                                         |
 | 20        | [Django Models](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2020/)                                  |
+| 21        | [Django CRUD](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2021/)                                    |
 
 
 
