@@ -29,6 +29,7 @@
 | 19        | [Django](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2019/)                                         |
 | 20        | [Django Models](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2020/)                                  |
 | 21        | [Django CRUD](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2021/)                                    |
+| 22        | [Django Custom User Model](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2022/)                       |
 
 
 
