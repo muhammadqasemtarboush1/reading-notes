@@ -1,4 +1,4 @@
-# Class 21
+# Class 22
 
 Live link: [Django Custom User Model](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2022/)
 
