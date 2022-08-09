@@ -4,7 +4,7 @@ Live link: [Django REST Framework & Docker](https://muhammadqasemtarboush1.githu
 
 ## Django REST Framework & Docker
 
---- 
+---
 
 ### A Beginner's Guide to Docker
 
@@ -41,25 +41,25 @@ resources than are needed and a container is more than sufficient.
 
 - download the desktop app on our computer & create a free account
 - we can confirm the correct version is running. It should be at least version 19.
-    - $ docker --version
+  - $ docker --version
 - Now run the command below to confirm you have a working version of it, too. The version should be at least 1.24.x.
-    - docker-compose --version
+  - docker-compose --version
 - To confirm Docker installed correctly we can run our first command
-    - docker run hello-world
+  - docker run hello-world
 
 ### Images and Containers
 
 Images and containers are the two fundamental concepts to grasp when you start with Docker.
 > An image is a snapshot in time of what a project contains
 >
->  A container is a running instance of the image.
+> A container is a running instance of the image.
 
 A baking analogy we can use here is as follows:
 
-* A Dockerfile is the recipe for a cake
-* An image is a snapshot of the recipe at a given time
-* A docker-compose.yml says how to make the cake
-* And the container is the actual, baked cake
+- A Dockerfile is the recipe for a cake
+- An image is a snapshot of the recipe at a given time
+- A docker-compose.yml says how to make the cake
+- And the container is the actual, baked cake
 
 ## Conclusion
 
@@ -69,21 +69,21 @@ complexity of images and containers.
 
 The important takeaways from this tutorial are this:
 
-* Docker is a way to run Linux containers
-* Containers are a lightweight alternative to Virtual Machines
-* Dockerfile is a list of instructions for creating an image
-* Images are made up of one or more layers
-* Containers are a running instance of an image
-* docker-compose.yml controls how to run the container
-* Containers are stateless and ephemeral in nature. We can link the local filesystem via volumes but things become more
+- Docker is a way to run Linux containers
+- Containers are a lightweight alternative to Virtual Machines
+- Dockerfile is a list of instructions for creating an image
+- Images are made up of one or more layers
+- Containers are a running instance of an image
+- docker-compose.yml controls how to run the container
+- Containers are stateless and ephemeral in nature. We can link the local filesystem via volumes but things become more
   complex with databases (which we didn’t cover here).
 
-## Notes:
+## Notes
 
-* Dockerfile :Similar to a Pipenv or a requirements.txt file; it is a list of all the requirements needed to build our
+- Dockerfile :Similar to a Pipenv or a requirements.txt file; it is a list of all the requirements needed to build our
   image. It is simpler to have them all in one place rather than install each manually line-by-line.
 
---- 
+---
 Resources:
 
 ## [Docker](https://wsvincent.com/beginners-guide-to-docker/)
@@ -92,7 +92,7 @@ Resources:
 
 ### Django REST Framework
 
-### What is it:
+### What is it
 
 works alongside the Django web framework to create web APIs. We cannot build a web API
 with only Django Rest Framework. It always must be added to a project after Django itself
@@ -106,7 +106,7 @@ has been installed and configured.
   verbs that specify what user actions are allowed. In this instance, an API user can only
   read the content, they are not able to update it in any way though we will learn how to do that in future chapters.
 
---- 
+---
 Resources:
 
 ## [Django REST Framework](https://djangoforapis.com/library-website-and-api/)
@@ -114,13 +114,3 @@ Resources:
 ## [API](https://djangoforapis.com/library-api/)
 
 ---
-
-
-
-
-
-
-
-
-
-

@@ -32,6 +32,7 @@
 | 22        | [Django Custom User Model](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2022/)                       |
 | 23        | [Hash Tables ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2023/)                                   |
 | 24        | [Django REST Framework & Docker ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2024/)                |
+| 25        | [Permissions & Postgresql ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2025/)                      |
 
 
 
