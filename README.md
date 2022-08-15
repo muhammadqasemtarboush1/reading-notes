@@ -33,6 +33,7 @@
 | 23        | [Hash Tables ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2023/)                                   |
 | 24        | [Django REST Framework & Docker ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2024/)                |
 | 25        | [Permissions & Postgresql ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2025/)                      |
+| 26        | [Authentication & Production Server ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2026/)            |
 
 
 
