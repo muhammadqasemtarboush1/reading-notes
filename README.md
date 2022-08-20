@@ -36,6 +36,7 @@
 | 26        | [Authentication & Production Server ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2026/)            |
 | 27        | [API Deployment ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2027/)                                |
 | 28        | [Graphs ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2028/)                                        |
+| 29        | [DSA Review ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2029/)                                    |
 
 
 
