@@ -3,13 +3,16 @@
 Live link: [DSA Review](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2029/)
 
 ## DSA Review
+
 ### part 1
+
 The Advice: Communicate!
 The best piece of technical interview advice I have received and can impart upon you is to communicate, communicate,
 communicate! This may seem like an anti-climactic piece of advice, but I hope to be able to demonstrate to you that it’s
 actually the most important skill to prepare prior to an interview.
 
-#### some tips:
+#### some tips
+
 * Restate the Question
 * Ask About Edge Cases
 * Ask About Test Cases
@@ -22,13 +25,14 @@ actually the most important skill to prepare prior to an interview.
 ## Notes
 
 as I discuss examples in the rest of this article, they will have a
-software engineering slant as it is the most familiar domain to me. 
+software engineering slant as it is the most familiar domain to me.
 Despite that slant, you can apply these skills to any whiteboard-style
 interview.
 
 ---
 
 ### 7 tips to ace a programming interview
+
 1) Take a few minutes.
 2) Write down the steps of the solution.
 3) Write pseudocode first.
@@ -36,7 +40,6 @@ interview.
 5) Sit down. Be humble.
 6) Come prepared.
 7) Review your work.
-
 
 ## Resources
 
