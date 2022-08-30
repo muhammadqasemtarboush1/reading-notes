@@ -1,6 +1,6 @@
-# Class 31
+# Class 32
 
-Live link: [React2](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2031/)
+Live link: [React3](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2032/)
 
 ## Topics that I reviewed
 

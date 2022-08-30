@@ -39,6 +39,7 @@
 | 29        | [DSA Review ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2029/)                                    |
 | 30        | [React 1 ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2030/)                                       |
 | 31        | [React 2 ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2031/)                                       |
+| 32        | [React 3 ](https://muhammadqasemtarboush1.github.io/reading-notes/Class%2032/)                                       |
 
 
 
